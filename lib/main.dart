@@ -1,3 +1,5 @@
+import 'package:daily_animation_task/Animated_Text/animatedText.dart';
+import 'package:daily_animation_task/Animated_contaniar/filgth.dart';
 import 'package:daily_animation_task/darg&drop/darg.dart';
 import 'package:flutter/material.dart';
 
@@ -11,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: HomeScreen(),
+      home: TextScreen(),
     );
   }
 }
