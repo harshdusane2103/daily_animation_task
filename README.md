@@ -16,6 +16,13 @@
 </div>
 
 
+<h1 align="center"> HERO Widget </h1>
 
+
+
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/a970adbc-60ad-4c26-a486-5d9b8eb0a7e8">
+</div>
 
 
