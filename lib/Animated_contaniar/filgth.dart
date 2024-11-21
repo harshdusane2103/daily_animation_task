@@ -43,7 +43,7 @@ class _FlightScreenState extends State<FlightScreen> {
                 setState(() {
                   // Toggle position and update booking state
                   _alignment = _alignment == Alignment.bottomCenter
-                      ? Alignment.topCenter
+                      ? Alignment.topRight
                       : Alignment.bottomCenter;
                   isBooked = !isBooked;
                 });
@@ -51,7 +51,7 @@ class _FlightScreenState extends State<FlightScreen> {
               child: Container(
                 height: 50,
                 width: 250,
-                margin: EdgeInsets.only(bottom: 16), // Adjust spacing if needed
+                margin: EdgeInsets.only(bottom: 25), // Adjust spacing if needed
                 decoration: BoxDecoration(
                   color: isBooked ? Colors.teal : Colors.blueAccent, // Change color
                   borderRadius: BorderRadius.circular(10),
