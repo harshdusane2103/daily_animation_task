@@ -1,8 +1,12 @@
 <h1 align="center"> Spining Bottle Game </h1>
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/bd801c02-6288-4f04-9957-4396baa0277b">
+  <video src="https://github.com/user-attachments/assets/36bf2298-de64-446d-b31c-f03bd6c416f8">
 </div>">
+
+
+
+
 </div>
 
 
